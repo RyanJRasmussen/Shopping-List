@@ -2,6 +2,7 @@
   text-align: center;
 }
 
+/*
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -35,4 +36,17 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+#testLogo {
+  height: 60px;
+}
+
+.navbar {
+  background-color: rgba(38, 198, 38, 0.878);
+}
+
+#PantryList {
+  text-align: center;
+  list-style: none;
 }
